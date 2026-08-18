@@ -221,6 +221,4 @@ GitHub: [@mobinravan](https://github.com/mobinravan)
 
 ---
 
-**Project Date:** August 2025
-
  **If you find this project useful, please give it a star!**
