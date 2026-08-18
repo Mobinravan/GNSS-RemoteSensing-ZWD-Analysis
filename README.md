@@ -1,4 +1,3 @@
-
 # GNSS Remote Sensing - ZWD Analysis Project
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -94,7 +93,7 @@ python occultation_analysis.py
 
 ---
 
-## 📈 Outputs Generated
+##  Outputs Generated
 
 ### Required Outputs (9 items):
 
