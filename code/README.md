@@ -1,13 +1,1 @@
-# Code Directory
-
-This directory contains all Python scripts for the project.
-
-## Files:
-- `main_project.py` - Main analysis code
-- `occultation_analysis.py` - COSMIC-2 analysis# Code Directory
-
-This directory contains all Python scripts for the project.
-
-## Files:
-- `main_project.py` - Main analysis code
-- `occultation_analysis.py` - COSMIC-2 analysis
+To get the project code, you can send an email to: mobinravan23@gmail.com
